@@ -14,6 +14,7 @@
 
         <ul>
             <li><a href="xss/xss_sanitize_example.php">XSS Cross-Site Scripting</a></li>
+            <li><a href="csrf/csrf_token_example.php">CSRF Cross Site Request Forgery</a></li>
         </ul>
     </main>
 <!--	<script src="index.js"></script>-->
